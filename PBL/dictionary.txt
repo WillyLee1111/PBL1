@@ -1,0 +1,93 @@
+talk|v|/tɔːk/|noi chuyen
+important|adj|/ɪmˈpɔːrtənt/|quan trong
+bag|n|/bæɡ/|cai tui
+time|n|/taɪm/|thoi gian
+join|v|/dʒɔɪn/|tham gia
+year|n|/jɪr/|nam
+open|v|/ˈoʊpən/|mo
+well|adv|/wel/|tot
+last|adj|/læst/|cuoi cung
+many|det|/ˈmeni/|nhieu
+can|modal v|/kæn/|co the
+part|n|/pɑːrt/|phan
+want|v|/wɒnt/|muon
+into|prep|/ˈɪntuː/|vao trong
+decide|v|/dɪˈsaɪd/|quyet dinh
+car|n|/kɑːr/|xe hoi
+view|n|/vjuː/|goc nhin
+end|n|/end/|ket thuc
+jump|v|/dʒʌmp/|nhay
+include|v|/ɪnˈkluːd/|bao gom
+room|n|/ruːm/|phong
+eat|v|/iːt/|an
+know|v|/noʊ/|biet
+job|n|/dʒɒb/|cong viec
+man|n|/mæn/|dan ong
+see|v|/siː/|thay
+day|n|/deɪ/|ngay
+work|v|/wɜːrk/|lam viec
+old|adj|/oʊld/|cu
+get|v|/ɡet/|nhan
+account|n|/əˈkaʊnt/|tai khoan
+very|adv|/ˈveri/|rat
+one|num|/wʌn/|mot
+just|adv|/dʒʌst/|chi
+question|n|/ˈkwestʃən/|cau hoi
+accept|v|/əkˈsept/|chap nhan
+box|n|/bɒks/|cai hop
+key|n|/kiː/|chia khoa
+new|adj|/njuː/|moi
+use|v|/juːz/|su dung
+say|v|/seɪ/|noi
+yes|adv|/jes/|co
+way|n|/weɪ/|cach
+run|v|/rʌn/|chay
+temperature|n|ˈtem.prə.tʃər|nhiet do
+do|v|/duː/|lam
+zoo|n|/zuː/|so thu
+put|v|/pʊt/|dat
+go|v|/ɡoʊ/|di
+family|n|/ˈfæməli/|gia dinh
+people|n|/ˈpiːpl/|con nguoi
+place|n|/pleɪs/|noi
+large|adj|/lɑːrdʒ/|lon
+up|adv|/ʌp/|len
+leave|v|/liːv/|roi di
+learn|v|/lɜːrn/|hoc
+face|n|/feɪs/|khuon mat
+each|det|/iːtʃ/|moi
+back|n|/bæk/|lung
+idea|n|/aɪˈdiːə/|y tuong
+able|adj|/ˈeɪbl/|co kha nang
+small|adj|/smɔːl/|nho
+night|n|/naɪt/|dem
+deal|v|/diːl/|giai quyet
+about|prep|/əˈbaʊt/|ve
+quick|adj|/kwɪk/|nhanh
+early|adv|/ˈɜːrli/|som
+under|prep|/ˈʌndər/|duoi
+think|v|/θɪŋk/|nghi
+right|adj|/raɪt/|dung
+game|n|/ɡeɪm/|tro choi
+hand|n|/hænd/|ban tay
+care|v|/ker/|quan tam
+read|v|/riːd/|doc
+need|v|/niːd/|can
+call|v|/kɔːl/|goi
+make|v|/meɪk/|lam
+happy|adj|/ˈhæpi/|vui
+fact|n|/fækt/|su that
+baby|n|/ˈbeɪbi/|em be
+fall|v|/fɔːl/|roi
+name|n|/neɪm/|ten
+quiet|adj|/ˈkwaɪət/|yen tinh
+have|v|/hæv/|co
+take|v|/teɪk/|lay
+keep|v|/kiːp/|giu
+kind|adj|/kaɪnd/|tot bung
+help|v|/help/|giup
+start|v|/stɑːrt/|bat dau
+visit|v|/ˈvɪzɪt/|tham
+meet|v|/miːt/|gap
+give|v|/ɡɪv/|cho
+bad|adj|/bæd/|xau
